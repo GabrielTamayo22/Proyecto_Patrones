@@ -1,11 +1,11 @@
 # Proyecto_Patrones
 
-###Avance documentación semana 1
+### Avance documentación semana 1
 
-###Objetivo general
+### Objetivo general
 Desarrollar un sistema de gestión de redes inteligentes (Smart Grid) que permita monitorear y administrar el consumo energético en tiempo real, optimizar la distribución de la energía mediante el balanceo de cargas, integrar fuentes de energía renovable y gestionar un sistema de facturación dinámica.
 
-###Objetivos específicos
+### Objetivos específicos
 •	Implementar un sistema de monitoreo del consumo energético en tiempo real que permita visualizar y registrar el uso de energía de los usuarios 
 
 •	Desarrollar mecanismos de balanceo de carga y gestión de picos de consumo
