@@ -15,3 +15,5 @@ Desarrollar un sistema de gestión de redes inteligentes (Smart Grid) que permit
 •	Diseñar un sistema de facturación dinámica que permita calcular el costo del consumo energético de acuerdo con variables como el horario, la demanda y el consumo registrado.
 
 •	Desarrollar un panel de gestión y visualización que permita consultar información sobre consumo, generación, demanda, costos y estado general de la red.
+
+• Implementar el patrón de diseño Singleton para garantizar una única instancia de los componentes que requieran una gestión centralizada dentro del sistema, facilitando el control y acceso consistente a la información de la red.
